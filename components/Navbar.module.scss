@@ -1,0 +1,212 @@
+@use "../styles/mixin" as mixin;
+
+.navbar-container {
+  margin: 0 auto;
+  max-width: 145rem;
+  height: 70px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 3.2rem;
+  background-color: var(--bg-color);
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  z-index: 211;
+  @include mixin.respond(tab-land) {
+    padding: 0 2.2rem;
+  }
+
+  .nav-links {
+    @include mixin.respond(phone-big) {
+      position: absolute;
+      left: 0px;
+      height: 100vh;
+      top: 0;
+      background-color: #fff;
+      display: flex;
+
+      align-items: center;
+      justify-content: center;
+      width: 70%;
+      z-index: 10;
+      transition: all 0.5s ease;
+      transform: translateX(-100%);
+    }
+  }
+  ul {
+    display: flex;
+    justify-content: flex-start;
+    list-style: none;
+    display: flex;
+    align-items: center;
+    gap: 3rem;
+    @include mixin.respond(phone-big) {
+      flex-direction: column;
+      gap: 10rem;
+    }
+
+    li {
+      list-style: none;
+
+      a {
+        color: var(--primary-color);
+        text-decoration: none;
+        font-size: 1.5rem;
+        font-weight: 500;
+        transition: all 0.3s;
+        @include mixin.respond(phone-big) {
+          font-size: 3rem;
+        }
+
+        &:hover {
+          color: var(--secondary-color);
+        }
+      }
+    }
+  }
+  .nav-links-active {
+    transform: translateX(-0%);
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+  }
+}
+
+.logo {
+  display: flex;
+  cursor: pointer;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  top: 15px;
+  left: 45%;
+  gap: 1rem;
+
+  @include mixin.respond(phone-big) {
+    left: 40%;
+  }
+
+  @include mixin.respond(phone-sm) {
+    left: 38%;
+  }
+  @include mixin.respond(phone-xsm) {
+    left: 35%;
+  }
+  span {
+    font-size: 25px;
+    color: var(--secondary-color);
+    @include mixin.respond(phone) {
+      font-size: 20px;
+    }
+  }
+}
+
+.logo2 {
+  display: flex;
+  cursor: pointer;
+  align-items: center;
+  justify-content: center;
+  gap: 2rem;
+
+  span {
+    font-size: 25px;
+    color: var(--secondary-color);
+    @include mixin.respond(phone) {
+      font-size: 20px;
+    }
+  }
+}
+
+.sticky {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  width: 100%;
+  height: 8rem;
+  padding-top: 0;
+  padding-bottom: 0;
+  z-index: 999;
+  border-bottom: 1px solid #c9c9c9;
+}
+
+.cart-icon {
+  font-size: 30px;
+  color: var(--primary-color);
+  cursor: pointer;
+  position: relative;
+  transition: transform 0.4s ease;
+  border: none;
+  background-color: transparent;
+}
+.cart-icon:hover {
+  transform: scale(1.1, 1.1);
+}
+.cart-item-qty {
+  position: absolute;
+  right: -8px;
+  font-size: 15px;
+  color: #eee;
+  background-color: var(--secondary-color);
+  width: 18px;
+  height: 18px;
+  border-radius: 50%;
+  text-align: center;
+  font-weight: 600;
+}
+// menu navbar
+
+.burger {
+  border-radius: 10px;
+  cursor: pointer;
+  display: none;
+  justify-content: center;
+  align-items: center;
+  transition: all 0.5s ease;
+  z-index: 100;
+  @include mixin.respond(phone-big) {
+    display: inline-block;
+  }
+}
+
+.burger-strip {
+  transition: all 0.5s ease;
+}
+.strip div {
+  height: 2px;
+  border-radius: 2px;
+  background: var(--primary-color);
+  margin: 7px;
+  transition: all 0.55s cubic-bezier(0.075, 0.82, 0.165, 1);
+  width: 30px;
+  @include mixin.respond(phone) {
+    width: 28px;
+  }
+  @include mixin.respond(phone-sm) {
+    width: 25px;
+  }
+}
+
+.active {
+  .line1 {
+    transform: translateY(13px) rotate(45deg);
+  }
+  .line2 {
+    opacity: 0;
+  }
+  .line3 {
+    transform: translateY(-6px) rotate(-45deg);
+  }
+}
+.overlay {
+  position: fixed;
+  background: rgba(0, 0, 0, 0.5);
+  left: 0;
+  top: 0;
+  height: 100vh;
+  width: 100vw;
+  z-index: 2;
+  /* will-change: transform; */
+  transition: all 0.5s ease;
+  overflow-y: hidden;
+  backdrop-filter: blur(2px);
+}

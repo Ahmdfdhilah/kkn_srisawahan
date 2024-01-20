@@ -1,0 +1,83 @@
+[
+    {
+      "id": "plant-001",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac neque et augue finibus placerat.",
+      "summary": "Beautiful flowering plant",
+      "image": "image-001.jpg",
+      "name": "Rose",
+      "current": "Rose"
+    },
+    {
+      "id": "plant-002",
+      "details": "Fusce eu metus sit amet magna consequat fermentum. Sed ultricies turpis ut magna aliquet, sit amet fermentum dolor accumsan.",
+      "summary": "Easy-to-care succulent",
+      "image": "image-002.jpg",
+      "name": "Aloe Vera",
+      "current": "Aloe-Vera"
+    },
+    {
+      "id": "plant-003",
+      "details": "Vivamus ac massa nec ligula auctor interdum. Sed id ante in odio auctor cursus.",
+      "summary": "Tropical palm with large leaves",
+      "image": "image-003.jpg",
+      "name": "Palm Tree",
+      "current": "Palm-Tree"
+    },
+    {
+      "id": "plant-004",
+      "details": "Curabitur eget erat vel elit dictum vulputate. Praesent euismod augue vel metus vestibulum, in cursus dui laoreet.",
+      "summary": "Colorful blooming flower",
+      "image": "image-004.jpg",
+      "name": "Tulip",
+      "current": "Tulip"
+    },
+    {
+      "id": "plant-005",
+      "details": "Duis tincidunt odio vel ex feugiat scelerisque. Integer posuere elit nec risus pellentesque, ut pharetra sapien ultricies.",
+      "summary": "Evergreen indoor plant",
+      "image": "image-005.jpg",
+      "name": "Snake Plant",
+      "current": "Snake-Plant"
+    },
+    {
+      "id": "plant-006",
+      "details": "Nulla facilisi. Sed et diam euismod, malesuada nisi eu, sollicitudin mauris.",
+      "summary": "Small ornamental cactus",
+      "image": "image-006.jpg",
+      "name": "Cactus",
+      "current": "Cactus"
+    },
+    {
+      "id": "plant-007",
+      "details": "Ut eget felis in quam tristique aliquet. Vestibulum auctor, lacus vel consectetur consectetur.",
+      "summary": "Fragrant herb for cooking",
+      "image": "image-007.jpg",
+      "name": "Basil",
+      "current": "Basil"
+    },
+    {
+      "id": "plant-008",
+      "details": "Pellentesque fermentum, libero eu accumsan tincidunt, elit ex pharetra purus, id cursus velit libero et nisi.",
+      "summary": "Garden favorite with vibrant colors",
+      "image": "image-008.jpg",
+      "name": "Sunflower",
+      "current": "Sunflower"
+    },
+    {
+      "id": "plant-009",
+      "details": "Morbi at eros quis tortor volutpat feugiat. Fusce tristique, tortor eu gravida fermentum, justo ex varius odio.",
+      "summary": "Unique foliage pattern",
+      "image": "image-009.jpg",
+      "name": "Calathea",
+      "current": "Calathea"
+    },
+    {
+      "id": "plant-010",
+      "details": "Aliquam a velit eu metus scelerisque bibendum. Nam nec nisl euismod, varius purus vel, commodo eros.",
+      "summary": "Drought-tolerant desert plant",
+      "image": "image-010.jpg",
+      "name": "Agave",
+      "current": "Agave"
+    }
+  ]
+  

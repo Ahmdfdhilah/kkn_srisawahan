@@ -1,0 +1,51 @@
+@use "../styles/mixin" as mixin;
+.section-plants {
+  display: flex;
+  flex-direction: column;
+}
+.card__container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 2.9rem;
+  margin: 3rem auto;
+  width: 100%;
+  @include mixin.respond(phone-big) {
+    gap: 2rem;
+  }
+  @include mixin.respond(phone) {
+    gap: 2rem;
+  }
+}
+.app__work-filter {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  margin: 4rem 0 2rem;
+}
+.app__work-filter-item {
+  padding: 0.5rem 1rem;
+  border-radius: 0.5rem;
+  background-color: #d9d9d9;
+  color: var(--primary-color);
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  margin: 0.5rem;
+  font-size: 1.5rem;
+  @include mixin.respond(phone-big) {
+    font-size: 2rem;
+  }
+
+  &:hover {
+    background-color: var(--secondary-color);
+    color: #fff;
+  }
+}
+.item-active {
+  background-color: var(--secondary-color);
+  color: #fff;
+}

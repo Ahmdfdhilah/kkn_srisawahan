@@ -1,0 +1,30 @@
+.layout {
+  padding: 10px;
+}
+.main-container {
+  max-width: 1400px;
+  margin: auto;
+  width: 100%;
+}
+.footer {
+  margin-top: 12rem;
+  padding: 3rem 0;
+  border-top: 1px solid #eee;
+}
+.dev {
+  font-size: 1.5rem;
+  margin-top: 5rem;
+  text-align: center;
+  color: #767676;
+}
+.wrapper {
+  width: 100vw;
+  background: rgba(0, 0, 0, 0.5);
+  position: fixed;
+  right: 0;
+  top: 0;
+  z-index: 1000;
+  /* will-change: transform; */
+  transition: all 0.5s ease;
+  overflow: hidden;
+}

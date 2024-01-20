@@ -1,0 +1,182 @@
+[{
+    "id": "kunyit",
+    "name": "Kunyit",
+    "latin": "Curcuma longa",
+    "details": "tanaman semak, tinggi 70 cm-1 meter. Batang semu, tegak, bulat, membentuk rimpang, warna hijau kekuningan. Berdaun tunggal, lanset memanjang, helai daun tiga sampai delapan, ujung dan pangkal runcing, tepi rata, panjang 20-40 cm, lebar 8-12,5 cm, pertulangan menyirip, memiliki bunga berwarna kuning pucat yang sangat indah.",
+    "summary": "Mengecilkan Pori, Mengubah Bau Tidak Enak, Anti Hama",
+    "img": "kunyit.png",
+    "current": "Curcuma_longa"
+  },
+  {
+    "id": "temulawak",
+    "name": "Temulawak",
+    "latin": "Curcuma xanthorrhiza",
+    "details": "tanaman rumpun berbatang semu. Tinggi tanaman temulawak dapat mencapai 2 meter. Temulawak memiliki daun 2-9 helai, berwarna hijau, berbentuk bulat memanjang, panjang 31- 84 cm, dan lebar 10-18 cm. Bunga temulawak termasuk tipe majemuk berbentuk bulir, bulat, dengan ukuran diameter sekitar 2-3 cm. Bunga temulawak berwarna putih kemerahan atau kuning tua.",
+    "summary": "Penambah Nafsu Makan, Pencahar, Peluruh ASI",
+    "img": "temulawak.png",
+    "current": "Curcuma_xanthorrhiza"
+  },
+  {
+    "id": "lidahbuaya",
+    "name": "Lidah buaya",
+    "latin": "Aloe vera",
+    "details": "tanaman perdu yang tumbuh tegak dengan tinggi sekitar 30-60 cm. Batangnya pendek dan lunak, berwarna hijau. Daunnya tunggal, berbentuk bulat panjang, dengan panjang sekitar 20-30 cm dan lebar sekitar 10-15 cm. Daunnya berwarna hijau tua dan berduri di tepinya. Bunganya majemuk, berbentuk bulir, berwarna kuning kemerahan, dan muncul di ujung batang.",
+    "summary": "Batuk, haid tidak teratur, amara, antelmintik, sembelit, merawat rambut",
+    "img": "aloevera.png",
+    "current": "Aloe_vera"
+  },
+  {
+    "id": "lempuyang",
+    "name": "Lempuyang",
+    "latin": "Zingiber zerumbet",
+    "details": "batang tegak dengan tinggi sekitar 1-2m, Daun berwarna keunguan dengan ukuran sekitar 25-35 cm",
+    "summary": "melancarkan haid, menurunkan demam, anti imflamasi, analgesik, antimikroba, sakit kepala",
+    "img": "Lempuyang.png",
+    "current": "Zingiber_zerumbet"
+  },
+  {
+    "id": "bangle",
+    "name": "Bangle",
+    "latin": "Zingiber montanum",
+    "details": "tanaman herba tahunan yang tumbuh tegak dengan tinggi sekitar 1-1,5 m. Batangnya tumbuh dari rimpang yang menjalar di dalam tanah. Batang bangle berwarna hijau muda dan berbuku-buku. Daunnya tunggal, berbentuk lanset ramping, dengan panjang sekitar 23-53 cm dan lebar 2-3,2 cm. Daun bangle berwarna hijau tua dan mengkilap. Bunganya majemuk, berbentuk bulir, dengan ukuran diameter sekitar 2-3 cm. Bunga bangle berwarna putih kekuningan.",
+    "summary": "mencegah flu, obat demam, nyeri perut, sembelit, masuk angin, encok",
+    "img": "Bengle.png",
+    "current": "Zingiber_montanum"
+  },
+  {
+    "id": "sambiloto",
+    "name": "Sambiloto",
+    "latin": "Andrographidis paniculata",
+    "details": "tanaman semusim yang tumbuh tegak dengan tinggi sekitar 40-90 cm. Batangnya bercabang-cabang, berbentuk segi empat, dan berwarna hijau kemerahan. Daunnya tunggal, bertangkai pendek, berbentuk lanset, dengan panjang sekitar 2-8 cm dan lebar 1-3 cm. Daunnya berwarna hijau tua dan mengkilap. Bunganya majemuk, berbentuk bulir, berwarna putih ungu, dan muncul di ujung batang atau ketiak daun.",
+    "summary": "Menurunkan demam, Amara, Vermifuga",
+    "img": "sambiloto.png",
+    "current": "Andrographidis_paniculata"
+  },
+  {
+    "id": "telang",
+    "name": "Bunga Telang",
+    "latin": "Clitoria ternatea",
+    "details": "Batangnya berwarna hijau, bercabang-cabang, dan berambut halus. daun berbentuk bulat telur atau lonjong, dengan panjang sekitar 2-6 cm dan lebar sekitar 1-3 cm. Daunnya berwarna hijau. Bunganya berbentuk kupu-kupu, dengan warna biru tua atau ungu. Bunganya muncul di ketiak daun dan memiliki tangkai yang panjang.",
+    "summary": "meredakan panas dalam, menurunkan hipertensi dan diabetes",
+    "img": "telang.png",
+    "current": "Clitoria_ternatea"
+  },
+  {
+    "id": "jaheputih",
+    "name": "Jahe",
+    "latin": "Zingiber officinale",
+    "details": "tanaman terna yang berbatang semu.Akar jahe berbentuk rimpang, dengan ukuran panjang sekitar 5-15 cm dan diameter sekitar 2-5 cm. Daun jahe berbentuk lanset, dengan panjang sekitar 15-30 cm dan lebar sekitar 2-5 cm. Bunga jahe berbentuk majemuk, berbentuk bulir, dan berwarna putih. Bunga jahe muncul di ujung batang.",
+    "summary": "mencegah masuk angin, obat batuk, menghangatkan tubuh, meredakan tenggorokan, mencegah sariawan",
+    "img": "jahe.png",
+    "current": "Zingiber_officinale"
+  },
+  {
+    "id": "mint",
+    "name": "Daun Mint",
+    "latin": "Mentha",
+    "details": "tanaman tahunan yang tumbuh tegak dengan tinggi sekitar 20-30 cm. Batangnya lunak dan berbuku-buku, berwarna hijau atau ungu. Daunnya tunggal, berbentuk lonjong atau bulat telur, dengan panjang sekitar 2-5 cm dan lebar sekitar 1-3 cm. Daunnya berwarna hijau atau ungu dan memiliki aroma yang khas. Bunganya majemuk, berbentuk bulir, berwarna ungu, dan muncul di ujung batang.",
+    "summary": "antimikroba, mempercepat sirkulasi, melancarkan sistem pencernaan, meringankan mual dan kram",
+    "img": "mint.png",
+    "current": "Mentha"
+  },
+  {
+    "id": "lengkuas",
+    "name": "Lengkuas",
+    "latin": "Alpina Galanga",
+    "details": "tanaman tahunan yang dapat tumbuh setinggi 1-3 meter. Batangnya tegak, berwarna hijau keputihan, dan terdiri dari pelepah-pelepah daun yang bersatu membentuk batang semu. Daunnya tunggal, berbentuk memanjang, dengan panjang sekitar 20-60 cm dan lebar 4-15 cm. Daunnya berwarna hijau tua dan memiliki tangkai pendek. Bunganya majemuk, berbentuk bulir, dengan ukuran diameter sekitar 2-3 cm. Bunganya berwarna putih dan muncul dari ketiak daun.",
+    "summary": "Eksim, Bronchitis, Cholera, Lemah Lembung, gastritis, borok",
+    "img": "lengkuas.png",
+    "current": "Alpina_Galanga"
+  },
+  {
+    "id": "kelor",
+    "name": "Daun Kelor",
+    "latin": "Moringa oleifera",
+    "details": "Tanaman kelor merupakan tanaman perdu yang tumbuh tegak dengan tinggi sekitar 7-11 meter. Batangnya berkayu dan bercabang-cabang. Daunnya majemuk, berbentuk bulat telur, dengan ukuran panjang sekitar 2-6 cm dan lebar sekitar 1-3 cm. Daunnya berwarna hijau tua dan memiliki aroma yang khas. Bunganya berbentuk terompet, berwarna putih kekuningan, dan muncul di ujung batang. Buahnya berbentuk polong, dengan ukuran panjang sekitar 10-15 cm dan lebar sekitar 2-3 cm. Bijinya berwarna hitam dan berbentuk bulat.",
+    "summary": "Hipertensi, asam urat, antialergi",
+    "img": "kelor.png",
+    "current": "Moringa_oleifera"
+  },
+  {
+    "id": "mengkudu",
+    "name": "Mengkudu",
+    "latin": "Morinda citrifolia",
+    "details": "pohon yang tumbuh tegak dengan tinggi mencapai 3–8 m. Batangnya berkayu, bulat, kulit berwarna coklat keabu-abuan dan tidak berbulu. Daunnya tunggal, berbentuk jorong lanset dengan ukuran 15-50 x 5-17 cm, tepi daun rata dan ujungnya lancip pendek, serat daun menyirip dan tidak berbulu. Bunganya berbentuk bongkol, berwarna putih dan harum. Buahnya merupakan buah majemuk, yang masih muda berwarna hijau mengilap dan memiliki totol-totol, dan ketika sudah tua berwarna putih dengan bintik-bintik hitam.",
+    "summary": "Hipotensif, antelmintik, Emenagoga",
+    "img": "mengkudu.png",
+    "current": "Morinda_citrifolia"
+  },
+  {
+    "id": "sereh",
+    "name": "Sereh Dapur",
+    "latin": "Cymbopogon serratus",
+    "details": "tanaman perdu dengan tinggi sekitar 50-100 cm. Batangnya bulat, berwarna hijau muda, dan berbuku-buku. Daunnya tunggal, berbentuk garis, dengan panjang sekitar 20-40 cm dan lebar sekitar 2-5 cm. Daun berwarna hijau muda dan memiliki aroma yang khas. Bunganya majemuk, berbentuk bulir, berwarna putih.",
+    "summary": "Asam urat, Daya tahan tubuh, Sakit Gigi, Peluruh Haid, masuk angin, obat kumur",
+    "img": "sereh.png",
+    "current": "Cymbopogon_serratus"
+  },
+  {
+    "id": "kunyitputih",
+    "name": "Kunyit Putih",
+    "latin": "Curcuma zedoaria",
+    "details": "tanaman semusim, daun berbentuk bundar warna hijau muda, bunga tumbuh bergerombol di atas batang semu setinggi 30–70 cm, akar berdaging membentuk umbi seukuran telur puyuh, rimpang kunyit putih tumbuh pendek, berwarna pucat,banyak serat, berbau khas, dan memiliki rasa pahit.",
+    "img":"kunyitputih.png",
+    "current":"Curcuma_zedoaria"
+  },
+   {
+    "id": "meniran",
+    "name": "Meniran",
+    "latin": "Phyllanthus urinaria",
+    "details": "tanaman perdu dengan tinggi sekitar 20-50 cm. Batangnya bulat, bercabang-cabang, dan berwarna hijau. Daun majemuk, berbentuk menyirip genap, dengan jumlah anak daun 3-6 helai. Anak daun berbentuk bulat telur, dengan panjang 1-2 cm dan lebar 0,5-1 cm. Daunnya berwarna hijau muda. Bunganya majemuk, berbentuk bulir, berwarna putih.",
+    "summary": "Mengobati batu ginjal, anyang-anyangan",
+    "img": "meniran.png",
+    "current":"Phyllanthus_urinaria"
+
+  },
+  {
+    "id": "cocorbebek",
+    "name": "Cocor Bebek",
+    "latin": "Kalanchoe pinnata",
+    "details": "tanaman semak dengan tinggi sekitar 20-50 cm. Batang lunak dan beruas-ruas berwarna hijau muda. Daunnya tebal berdaging dan mengandung banyak air, berbentuk bulat telur, dengan panjang 2-10 cm dan lebar 1-5 cm. Daunnya berwarna hijau muda atau hijau tua. Bunganya majemuk, berbentuk bulir, berwarna merah muda.",
+    "summary": "Disentri, diare, peluruh air seni",
+    "img": "cocorbebek.png",
+    "current":"Kalanchoe_pinnata"
+  },
+  {
+    "id": "kunci",
+    "name": "Temu Kunci",
+    "latin": "Boesenbergia rotunda",
+    "details": "tanaman tahunan dengan tinggi sekitar 15-40 cm. Daun tanaman lebar dan berwarna hijau muda, pelepah daun berwarna merah. Bagian bawah tanah tanaman terdiri dari rimpang bawah tanah yang berbentuk bulat kecil dengan diameter 1,5-2 cm dimana beberapa umbi ramping dan panjang tumbuh semua dalam arah yang sama seperti jari-jari tangan sehingga sering disebut fingerroot. Umbinya berdiameter sekitar 1-1,5 cm dan panjangnya sekitar 5-10 cm. Warna rimpang kuning cerah. Temu kunci sangat aromatik dan bunganya berwarna merah tua serta mekar sepanjang tahun di negara tropis.",
+    "summary": "antibacteria, antiaging, anti imflamasi, antiviral, anti jamur",
+    "img": "kunci.png",
+    "current":"Boesenbergia_rotunda"
+  },
+  {
+    "id": "sirihcina",
+    "name": "Sirih Cina",
+    "latin": "Peperomia pellucida",
+    "details": "tanaman semak dengan tinggi 10-20 cm. Batang lunak berbuku-buku. Daun tunggal, berbentuk lonjong, panjang 1-4 cm dan lebar 0,5-2 cm. Daunnya berwarna hijau muda dan mengkilap. Bunga majemuk, berbentuk bulir, berwarna putih kekuningan.",
+    "summary": "Luka bakar, sakit perut, jerawat, diabetes, asam urat",
+    "img": "sirihcina.png",
+    "current": "Peperomia_pellucida"
+  },
+  {
+    "id": "kencur",
+    "name": "Kencur",
+    "latin": "Kaempferia galanga",
+    "details": "akar bulat memanjang, batang semu, bentuk daun elips, bentuk bunga bulir",
+    "summary": "obat batuk, perut kembung, flu, penambah nafsu makan, diare",
+    "img": "kencur.png",
+    "current":"Kaempferia_galanga"
+  },
+  {
+    "id": "tapakdara",
+    "name": "Tapak Dara",
+    "latin": "Vinca rosea",
+    "details": "tanaman perdu tahunan dengan tinggim0,2-1 meter. Batangnya ramping dan bercabang-cabang, berwarna hijau atau ungu. Daunnya berbentuk bulat telur, berwarna hijau, dan tersusun berseling. Panjang daun 2-6 cm dan lebar 1-3 cm. Bunga berbentuk terompet, berwarna ungu, putih, atau merah muda yang muncul dari ketiak daun dan memiliki tangkai pendek.",
+    "summary": "Hipertensi, Kencing Manis, Kanker Payudara, Membersihkan haid",
+    "img": "tapakdara.png",
+    "current":"Vinca_rosea"
+  }
+
+]
