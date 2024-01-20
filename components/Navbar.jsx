@@ -70,7 +70,6 @@ const Navbar = () => {
         ></div>
         <Link href="/">
           <div className={styles.logo}>
-            <Logo />
             <span> Lahan Hijau Sri Sawahan</span>
           </div>
         </Link>
