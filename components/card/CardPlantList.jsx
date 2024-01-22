@@ -8,7 +8,6 @@ import { images } from "../../constants";
 const CardPlantList = ({
   product: { id, img, name, summary, details, current, latin },
 }) => {
-  console.log(images.Tanaman[name]);
 
   return (
     <>
