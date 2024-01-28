@@ -62,7 +62,7 @@ const about = () => {
         dan faktor-faktor lain dapat berkontribusi pada kemudahan untuk mengerjakan atau
         memanfaatkan lahan tersebut. Pemahaman ini dapat membantu dalam perencanaan
         penggunaan lahan, pertanian, atau pengembangan wilayah yang lebih efektif</p>
-      <br/>
+      <br />
       <h3>Peta Satuan Kemampuan Lahan Ketersediaan Air
       </h3>
       <p>
@@ -88,6 +88,20 @@ const about = () => {
         yang memadai dapat menyumbang pada tingginya ketersediaan air. Ini dapat
         mengindikasikan potensi baik untuk pertanian, pemukiman, atau keperluan lain yang
         memerlukan pasokan air yang memadai.</p>
+        <br></br>
+      <h3>Peta Geologi
+      </h3>
+      <p>
+        Adanya peta geologi memudahkan dalam proses penelitian, untuk mengetahui kenampakan geologis suatu daerah. Peta ini dapat memberikan gambaran mengenai seluruh penyebaran batuan mulai dari jenis, sifat, dan umur batuan, stratigrafi, struktur , formasi ,  gejala kenampakan panas bumi dan sumber daya mineral yang secara keseluruhan menggambarkan evolusi kegiatan gunung api tersebut. Berdasarkan analisis dan pengklasifikasian diperoleh peta geologi sebagai berikut :
+        Berdasarkan peta geologi di atas, diperoleh data bahwa wilayah Kampung Srisawahan memiliki Formasi Terbanggi (QPT). Formasi Terbanggi (QPT) terdiri  dari batu pasir dengan sisipan batu lempung. Dimana kondisi formasi ini terbilang cocok untuk lahan pertanian untuk jenis tanaman jagung dan padi.
+      </p>
+      <br />
+      <Image
+        src={images.gl}
+        alt="example"
+        height={515}
+        width={700}
+      />
     </motion.div>
   );
 };
